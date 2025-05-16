@@ -1,0 +1,3 @@
+C:\Users\mahee\source\repos\TodoApi\TodoApi.Tests\obj\Debug\net8.0\TodoApi.Tests.dll
+C:\Users\mahee\source\repos\TodoApi\TodoApi.Tests\obj\Debug\net8.0\refint\TodoApi.Tests.dll
+C:\Users\mahee\source\repos\TodoApi\TodoApi.Tests\obj\Debug\net8.0\TodoApi.Tests.pdb
